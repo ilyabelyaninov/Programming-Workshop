@@ -1,0 +1,1 @@
+working_directory = C:\Users\Ilya\LR-6\work_dir
